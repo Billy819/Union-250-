@@ -91,8 +91,7 @@ ends. Same rhythm: every 5 logged days lights one of fifty American inventions, 
 order they were invented. The hero counter walks forward from 1752 to 2007 as you go.
 Inventions can be filtered by category, and each one opens a full story.
 
-**Scoring.** Six metrics — GDP, Human Development, Military Power, Global Reputation,
-Technology, Education — all move together each day:
+**Scoring.** Six metrics move together each day:
 
 | Day | Points to every metric |
 |---|---|
@@ -102,11 +101,27 @@ Technology, Education — all move together each day:
 | Clean, 4 hours or more | 0 |
 | Relapsed, any screen time | **−30** |
 
-Each metric starts from a different baseline reflecting where the US actually sits today
-(Military 92, GDP 88, Technology 84, Human Development 62, Education 58, Global
-Reputation 55), so they climb at the same rate but reach "Unrivalled" at different times.
-The hour thresholds are editable in Settings — change them and every past day is rescored
-instantly.
+The hour thresholds are editable in Settings — change them and every past day is
+rescored instantly.
+
+**The six metrics are real.** Each one tracks a published international indicator, shows
+the United States' actual current value and world rank, and names its source. Tap any card
+for the full picture.
+
+| Metric | Indicator | Source | US today | Rank | Benchmark |
+|---|---|---|---|---|---|
+| GDP | Nominal GDP | IMF WEO, Apr 2026 | $32.38T | 1 / 192 | $50T (stretch) |
+| Human Development | Human Development Index | UNDP HDR 2025 | 0.938 | 18 / 193 | 0.972 — Iceland |
+| Military Power | Global Firepower Power Index | Global Firepower 2026 | 0.0741 | 1 / 145 | 0.0000 — perfect |
+| Global Reputation | Global Soft Power Index | Brand Finance 2026 | 74.9 / 100 | 1 / 193 | 100 — index max |
+| Technology | Global Innovation Index | WIPO GII 2025 | 61.7 / 100 | 3 / 139 | 66.0 — Switzerland |
+| Education | PISA mean score | OECD PISA 2022 | 489 | 16 / 81 | ~560 — Singapore |
+
+**The standard is the same for all six: close the gap between where America is today and
+the world's best.** Where the US already leads, the target is the index's own theoretical
+best. A flawless 500-day run is 15,000 points, which closes every gap completely. Your
+points move the *projection* only — the real figures are fixed, published data, and the
+per-metric world ranks climb honestly as the gap narrows.
 
 **Winning.** Reaching day 250 crowns the United States the greatest country in the world,
 regardless of how the points fell along the way, and opens Level 2. Day 500 finishes
@@ -127,6 +142,10 @@ everything: 101 unlocked dossiers, nothing sealed. Showing up is the win conditi
   bar until day 250, then fills with fifty inventions you can filter and read.
 - **Guide** — how to use it, the scoring rules, six things to do when an urge hits, an
   FAQ, and fifteen talks from Americans worth listening to.
+- **Every photograph opens full** — tap any picture in a state dossier, an invention story
+  or the pride gallery and it opens uncropped, whole, at its real proportions. Arrows or a
+  swipe walk the rest of the set, and a zoom button gives you detail at full resolution.
+  Cards still crop to keep the grid tidy; the lightbox never changes the page underneath.
 - **Settings** — name, start date, editable hour targets, dark / light / auto theme, five
   accent colours, sound, reduced motion, and backup export/import.
 
